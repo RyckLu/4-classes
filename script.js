@@ -1,16 +1,17 @@
 class Estudante{
-    constructor(nome,email,ra,curso,dic){
+    constructor(nome,email,ra,curso,diciMatri){
         this.nome = nome
         this.email = email
         this.ra = ra
         this.curso = curso
-        this.dic = dic
+        this.diciMatri = diciMatri
     }
 }
+console.log(Estudante)
 function primeiraDiciplina(){
 
 }
 
 function ultimaDiciplina(){
-    
+
 }
